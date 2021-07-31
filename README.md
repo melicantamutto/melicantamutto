@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hola! 👋  Mi nombre es Melina Lucía Cantamutto y soy desarrolladora FrontEnd ✨🖥️
 
-<!--
-**melicantamutto/melicantamutto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mi 🌺
+Estudié Programación FrontEnd en [ADA ITW](https://adaitw.org/experiencia-ada/) y actualmente me encuentro formándome como Full-Stack Developer en [Digital House](https://www.digitalhouse.com/ar/acciones/certified-tech-developer). 
 
-Here are some ideas to get you started:
+Soy muy curiosa, ordenada y creativa. También me considero dedicada y perseverante con mis objetivos. 
+Disfruto de trabajar en equipo, ya que con la diversidad de opniones y la colaboración se enriquecen los proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lenguajes y herramientas
+<img src="https://img.icons8.com/dusk/64/000000/html-5.png"/> <img src="https://img.icons8.com/dusk/64/000000/css3.png"/> <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/> <img src="https://img.icons8.com/dusk/64/000000/react.png"/> <img src="https://img.icons8.com/dusk/64/000000/github.png"/> 
+
+En mi Github vas a encontrar mi camino de aprendizaje, mis experimentos y mis contribuciones en otros proyectos.
+
+### Mi portafolio 🌼
+En mi [portafolio](https://melicantamutto.github.io/portafolio/) podés encontrar los proyectos que fui realizando.
+
+### Como contactarme 📨 
+LinkedIn: [melicantamutto](https://www.linkedin.com/in/melinacantamutto/)
