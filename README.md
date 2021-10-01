@@ -9,7 +9,7 @@ Estudié Programación FrontEnd en [ADA ITW](https://adaitw.org/experiencia-ada/
 En mi Github vas a encontrar mi camino de aprendizaje, mis experimentos y mis contribuciones en otros proyectos.
 
 ### Mi portafolio 🌼
-En mi [portafolio](https://melicantamutto.github.io/portafolio/) podés encontrar los proyectos que fui realizando.
+En mi [portafolio](https://quizzical-hypatia-cdbfe1.netlify.app/) podés encontrar los proyectos que fui realizando.
 
 ### Como contactarme 📨 
 LinkedIn: [melicantamutto](https://www.linkedin.com/in/melinacantamutto/)
